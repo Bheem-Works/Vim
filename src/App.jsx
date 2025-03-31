@@ -6,6 +6,7 @@ import WorkFlow from './components/WorkFlow.jsx'
 import Pricing from './components/Pricing.jsx'
 import Testimonial from './components/Testimonial.jsx'
 import Footer from './components/Footer.jsx'
+import Random from './components/Random.jsx'
 function App() {
   return (
     <>
@@ -17,6 +18,7 @@ function App() {
         <Pricing />
         <Testimonial />
         <Footer />
+        <Random />
       </div>
     </>
 
